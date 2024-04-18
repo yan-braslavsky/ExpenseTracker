@@ -4,11 +4,14 @@ The Expense Tracker App is a simple web application that allows users to track t
 
 ## Screenshots
 
-![Home Page](/path/to/home-page-screenshot.png)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-18 at 14 17 11](https://github.com/yan-braslavsky/ExpenseTracker/assets/1155059/f390ae5d-91d8-47df-a592-aaef2f517f05)
 *This screenshot shows the home page of the Expense Tracker App, where users can view their current expenses and add new ones.*
 
-![Add Expense Modal](/path/to/add-expense-modal-screenshot.png)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-18 at 14 17 18](https://github.com/yan-braslavsky/ExpenseTracker/assets/1155059/31b0e78b-c703-4539-923d-0cb66809f637 =400x300)
 *This screenshot shows the modal window where users can add a new expense to the application.*
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-18 at 14 17 35](https://github.com/yan-braslavsky/ExpenseTracker/assets/1155059/5959caf7-c662-4a60-8c37-37aada22d3bf =400x300)
+*This screenshot shows Recent Expenses.*
 
 ## Technologies Used
 - React Native
