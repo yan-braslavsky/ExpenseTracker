@@ -3,17 +3,16 @@
 The Expense Tracker App is a simple web application that allows users to track their expenses. It uses Firebase Realtime Database as the backend to store and retrieve expense data.
 
 ## Screenshots
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-18 at 14 17 11](https://github.com/yan-braslavsky/ExpenseTracker/assets/1155059/e904f070-3d12-462d-b208-7ee7b1fef362)
 
-*This screenshot shows the home page of the Expense Tracker App, where users can view their current expenses and add new ones.*
+| Home Page | Add Expense | Recent Expenses |
+| :---: | :---: | :---: |
+| ![Expense Tracker App - Home Page](https://github.com/yan-braslavsky/ExpenseTracker/assets/1155059/e904f070-3d12-462d-b208-7ee7b1fef362) | ![Expense Tracker App - Add Expense](https://github.com/yan-braslavsky/ExpenseTracker/assets/1155059/85643c49-c0cb-4bc3-b0d2-19abc6baa13c) | ![Expense Tracker App - Recent Expenses](https://github.com/yan-braslavsky/ExpenseTracker/assets/1155059/4aa40e9f-57a9-4486-a8ae-b45e1244a3a7) |
+| *Image 1* | *Image 2* | *Image 3* |
 
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-18 at 14 17 18](https://github.com/yan-braslavsky/ExpenseTracker/assets/1155059/85643c49-c0cb-4bc3-b0d2-19abc6baa13c)
 
-*This screenshot shows the modal window where users can add a new expense to the application.*
 
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-18 at 14 17 35](https://github.com/yan-braslavsky/ExpenseTracker/assets/1155059/4aa40e9f-57a9-4486-a8ae-b45e1244a3a7)
 
-*This screenshot shows Recent Expenses.*
+
 
 ## Technologies Used
 - React Native
